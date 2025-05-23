@@ -78,4 +78,3 @@ You can also use your mobile phone as a camera scanner with the help of **DroidC
 
 Enjoy managing your event attendance efficiently!
 
-```
