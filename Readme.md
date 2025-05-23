@@ -55,7 +55,7 @@ python gatekeeper.py
 You can also use your mobile phone as a camera scanner with the help of **DroidCam**:
 
 1. Install the **DroidCam** app on your mobile phone (available on Google Play Store or Apple App Store).
-2. Install the **DroidCam Client** on your computer from: [https://www.dev47apps.com/](https://www.dev47apps.com/)
+2. Install the **DroidCam Client** on your computer from: [https://www.dev47apps.com/droidcam/windows/](https://www.dev47apps.com/droidcam/windows/)
 3. Connect your phone and computer over Wi-Fi or USB using DroidCam.
 4. In the application, select the DroidCam camera from the camera dropdown.
 5. Start scanning QR codes using your phone camera streamed to the app.
